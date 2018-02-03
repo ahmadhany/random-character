@@ -1,8 +1,8 @@
 {
   "name": "random-character",
   "version": "0.10.0",
-  "description": "Readme Text File",
-  "main": "A module that returns alphanumeric strings",
+  "description": "A Module that returns alphanumeric strings",
+  "main": "App.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
