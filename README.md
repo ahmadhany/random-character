@@ -7,7 +7,7 @@ npm install random-character --save
 ## How To Use
 var random = require('random-character');
 
-'''javascript
+```javascript
 ##METHOD
 
 # RandomChar
