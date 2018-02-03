@@ -1,0 +1,24 @@
+{
+  "name": "random-character",
+  "version": "0.10.0",
+  "description": "Readme Text File",
+  "main": "A module that returns alphanumeric strings",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahmadhany/random-character.git"
+  },
+  "keywords": [
+    "string",
+    "random",
+    "characters"
+  ],
+  "author": "Ahmed Hany",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ahmadhany/random-character/issues"
+  },
+  "homepage": "https://github.com/ahmadhany/random-character#readme"
+}
